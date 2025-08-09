@@ -1520,7 +1520,7 @@ body {
 }
 
 .hero-logo-image {
-    width: 450px;
+    width: 50%;
     height: auto;
     object-fit: contain;
     filter: drop-shadow(0 0 20px var(--glow-blue));
